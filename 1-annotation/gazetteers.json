@@ -1,0 +1,167 @@
+{"ORG":[
+    "Governo Federal",
+    "Banco Central",
+    "Banco Central do Brasil"
+],
+
+"COMPANY":[
+    "Banco",
+    "Bradesco",
+    "Santander",
+    "nossa caixa", "Nossa Caixa",
+    "Banco Votorantim",
+    "PAN", "Banco PAN",
+    "Brasilprev",
+    "Banco do Brasil",
+    "Banrisul",
+    "Mosaico",
+    "Buscapé",
+    "Zoom",
+    "Bank of America",
+    "bancos federais",
+    "Banco ABC", "ABC Brasil",
+    "Paraná Banco"
+],
+
+"RECEITA":[
+    "receita",
+    "receita de prestação de serviços",
+    "receita de serviços",
+    "receita financeira"
+],
+
+"DESPESA":[
+    "despesa", "despesas",
+    "despesas operacionais",
+    "despesas administrativas",
+    "Despesas de pessoal", "despesas de pessoal"
+],
+
+"LUCRO":[
+    "lucro contábil",
+    "Lucro líquido", "lucro líquido"
+],
+
+"CARTEIRA":[
+    "carteira", "carteiras",
+    "Carteira de crédito", "carteira de crédito",
+    "Carteira comercial",
+    "Carteira de investimento",
+    "Carteira de desenvolvimento",
+    "Carteira de crédito imobiliário", "crédito imobiliário",
+    "Carteira de arrendamento mercantil",
+    "Carteira de financiamento", "carteira de financiamento",
+    "Carteira de investimento",
+    "Carteira de Crédito Pessoa Jurídica",
+    "Carteira de Crédito Pessoa Física",
+    "Carteira de Crédito Rural", "crédito rural",
+    "carteira de empréstimos",
+    "carteria de atacado",
+    "carteira de renda variável"
+],
+
+"INDICADOR_EFICIENCIA":[
+    "Margem Financeira", "margem financeira",
+    "eficiência operacional"
+],
+
+"INDICADOR_RENTABILIDADE":[
+    "rentabilidade sobre o patrimônio líquido", "ROAE",
+    "ROE"
+],
+
+"INDICADOR_VALUATION":[
+    "Dividend Yield", "dividend yield",
+    "payout"
+],
+
+"INDICADOR_LIQUIDEZ":[
+    "índice de cobertura",
+    "Índice de Basiléia", "índice de Basiléia",
+    "Basileia", "Basiléia",
+    "risco de liquidez",
+    "solvência",
+    "inadimplência",
+    "índice de eficiência",
+    "inadimplência acima de 90 dias"
+],
+
+"PROVISAO":[
+    "provisão", "provisões",
+    "provisões de créditos de liquidação duvidosa", "PDD",
+    "provisão para Crédito de Liquidação Duvidosa", "PCLD"
+],
+
+"RESULTADO": [
+    "Resultado de Intermediação Financeira", "resultado de intermediação financeira", 
+    "resultados operacionais", "resultado operacional", 
+    "Resultado das Operações de Seguros", "resultado das operações de seguros"
+],
+
+"PROVENTO":[
+    "dividendos", 
+    "juros sobre capital próprio", "JCP", "JSCP"
+],
+
+"CONDICOES_MACROECONOMICAS":[
+    "Desemprego", "desemprego",
+    "Estagnação", "estagnação",
+    "Inflação", "inflação",
+    "IPCA", "IPC-A",
+    "IGP-M", "IGPM",
+    "queda da renda do trabalhador",
+    "recessão",
+    "PIB", "Produto Interno Bruto",
+    "alta de juros",
+    "política monetária",
+    "política fiscal",
+    "taxa básica de juros da economia", "Selic",
+    "CDI",
+    "deterioração do emprego",
+    "estiagem"
+],
+
+"PRODUTO":[
+    "Cartão de crédito", "cartão de crédito", "cartões de crédito", "cartões de crédito e de débito",
+    "seguros", "Seguros",
+    "previdência", "Previdência",
+    "crédito pessoal",
+    "crédito consignado", "empréstimos consignados", "empréstimo consignado", "margem consignável",
+    "Canais Digitais", "canais digitais",
+    "conta corrente",
+    "poupança"
+],
+
+"BALANCO_PATRIMONIAL":[
+    "caixa",
+    "depósito à vista",
+    "patrimônio líquido",
+    "depósito compulsório"
+],
+
+"RISCO":[
+    "risco", "riscos",
+    "inadimplência", "inadimplente", "inadimplentes",
+    "deterioração de qualidade"
+],
+
+"CLIENTE":[
+    "cliente", "clientes",
+    "pessoa física", "PF", "pessoas físicas",
+    "pessoa jurídica", "PJ", "pessoas jurídicas",
+    "PMEs"
+],
+
+"SEMESTER":[
+    "primeiro semestre", "1S",
+    "segundo semestre", "2S"
+],
+
+"QUARTER":[
+    "primeiro trimestre", "1T",
+    "segundo trimestre", "2T",
+    "terceiro trimestre", "3T",
+    "quarto trimestre", "4T"
+]
+
+}
