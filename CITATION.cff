@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "Evaluating Named Entity Recognition: A comparative analysis of mono- and multilingual transformer models on a novel Brazilian corporate earnings call transcripts dataset"
+authors:
+  - family-names: "Abilio"
+    given-names: "Ramon"
+  - family-names: "Coelho"
+    given-names: "Guilherme Palermo"
+  - family-names: "Antunes da Silva"
+    given-names: "Ana Estela"
+date-released: 2024-01-01
+version: "1.0.0"
+doi: "10.1016/j.asoc.2024.112158"
+url: "https://www.sciencedirect.com/science/article/pii/S1568494624009323"
+journal: "Applied Soft Computing"
+issn: "1568-4946"
